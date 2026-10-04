@@ -10,7 +10,8 @@ and the overall CGPA across all semesters.
 - Handles the case where zero credit hours are entered
 
 ## How to run
+```
 g++ cgpa2.cpp -o cgpa2
 ./cgpa2
-
+```
 Built as part of my CodeAlpha C++ Programming internship.
